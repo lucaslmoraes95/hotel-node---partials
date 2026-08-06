@@ -10,7 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^5.0.1",
+    "ejs": "^5.0.2",
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaslmoraes95/hotel-node---partials.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucaslmoraes95/hotel-node---partials/issues"
+  },
+  "homepage": "https://github.com/lucaslmoraes95/hotel-node---partials#readme"
 }
